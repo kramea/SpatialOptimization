@@ -1,0 +1,638 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Chris Daly, Spatial Climate Analysis Service 
+      Originator: 
+        George Taylor, the Oregon Climate Service at Oregon State University
+      Publication_Date: 200009
+      Title: United States Average Annual Precipitation, 1961-1990
+      Geospatial_Data_Presentation_Form: Map
+      Publication_Information:
+        Publication_Place: Corvallis, OR, USA
+        Publisher:
+          Spatial Climate Analysis Service, Oregon State University;
+          USDA - NRCS National Water and Climate Center, Portland, Oregon;
+          USDA - NRCS National Cartography and Geospatial Center, Fort Worth,
+          Texas
+      Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+      Online_Linkage: 
+        <http://www.ncgc.nrcs.usda.gov/branch/gdb/products/climate/index.html>
+  Description:
+    Abstract:
+      This map layer shows polygons of average annual precipitation in the 
+      contiguous United States, for the climatological period 1961-1990.  
+      Parameter-elevation Regressions on Independent Slopes Model (PRISM) 
+      derived raster data is the underlying data set from which the polygons 
+      and vectors were created.  PRISM is an analytical model that uses point 
+      data and a digital elevation model (DEM) to generate gridded estimates 
+      of annual, monthly and event-based climatic parameters.  
+    Purpose:
+      These data are intended for geographic display and analysis at the 
+      national level, and for large regional areas.  The data should be 
+      displayed and analyzed at scales appropriate for 1:2,000,000-scale 
+      data.  No responsibility is assumed by the Spatial Climate Analysis 
+      Service, the USDA - NRCS National Water and Climate Center, the USDA - 
+      NRCS National Cartography and Geospatial Center, or the U.S. Geological 
+      Survey in the use of these data.
+
+    Supplemental_Information:
+      There are many methods of interpolating precipitation from monitoring
+      stations to grid points.  Some provide estimates of acceptable accuracy 
+      in flat terrain, but few have been able to adequately explain the 
+      extreme, complex variations in precipitation that occur in mountainous 
+
+
+      regions.  Significant progress in this area has been achieved through 
+      the development of PRISM (Parameter-elevation Regressions on
+      Independent Slopes Model).  PRISM is an analytical model that uses 
+      point data and a digital elevation model (DEM) to generate gridded 
+      estimates of monthly and annual precipitation (as well as other 
+      climatic parameters).  PRISM is well suited to regions with
+      mountainous terrain, because it incorporates a conceptual framework 
+      that addresses the spatial scale and pattern of precipitation in such 
+      regions.
+
+      Detailed descriptions of the PRISM raster data can be found on the 
+      Oregon State University PRISM web page at 
+      <http://www.ocs.oregonstate.edu/prism/>.
+      Additional information is available through the Natural Resources 
+      Conservation Service web pages at the National Water and Climate Center
+      at <http://www.wcc.nrcs.usda.gov/climate/prism.html>
+      or through the National Cartography and Geospatial Center at
+      <http://www.ncgc.nrcs.usda.gov/branch/gdb/products/climate/index.html>.
+
+      Other source PRISM data sets are also available in Arc/INFO coverage and 
+      Arc/INFO ASCII GRID formats from the Spatial Climate Analysis Service.  
+      See <http://www.ocs.oregonstate.edu/prism/prism_products.html> for more 
+      information.
+
+      NRCS offers the source PRISM data packaged on 3 CD-ROM's covering the 
+      Lower 48 United States.  The CD-ROM’s are available as a set for $150.00.  
+      The 48 States are broken into three regions: East, Central and West.  Each 
+      CD contains the annual and monthly precipitation coverages, as well as the 
+      gridded data.  The CD-ROM's may be ordered through
+      <http://www.ncgc.nrcs.usda.gov/branch/gdb/products/climate/data/precipitation-
+      order.html>.
+
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 19610101
+        Ending_Date: 19901231
+    Currentness_Reference: Ground condition
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency:
+      No updates are planned for the 1961-1990 climatological period.  However, 
+      a similar data set will probably be produced in 2001 for the 1971-2000 
+      climatological period.
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -124.762142
+      East_Bounding_Coordinate: -66.957227
+      North_Bounding_Coordinate: 49.371731
+      South_Bounding_Coordinate: 24.545220
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: Environment
+      Theme_Keyword: Geoscientific information
+      Theme_Keyword: Inland waters
+
+
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Precipitation
+      Theme_Keyword: Rainfall
+      Theme_Keyword: Climate
+      Theme_Keyword: PRISM
+
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: United States
+      Place_Keyword: Alabama
+      Place_Keyword: Arizona
+      Place_Keyword: Arkansas
+      Place_Keyword: California
+      Place_Keyword: Colorado
+      Place_Keyword: Connecticut
+      Place_Keyword: Delaware
+      Place_Keyword: District of Columbia
+      Place_Keyword: Florida
+      Place_Keyword: Georgia
+      Place_Keyword: Idaho
+      Place_Keyword: Illinois
+      Place_Keyword: Indiana
+      Place_Keyword: Iowa
+      Place_Keyword: Kansas
+      Place_Keyword: Kentucky
+      Place_Keyword: Louisiana
+      Place_Keyword: Maine
+      Place_Keyword: Maryland
+      Place_Keyword: Massachusetts
+      Place_Keyword: Michigan
+      Place_Keyword: Minnesota
+      Place_Keyword: Mississippi
+      Place_Keyword: Missouri
+      Place_Keyword: Montana
+      Place_Keyword: Nebraska
+      Place_Keyword: Nevada
+      Place_Keyword: New Hampshire
+      Place_Keyword: New Jersey
+      Place_Keyword: New Mexico
+      Place_Keyword: New York
+      Place_Keyword: North Carolina
+      Place_Keyword: North Dakota
+      Place_Keyword: Ohio
+      Place_Keyword: Oklahoma
+      Place_Keyword: Oregon
+      Place_Keyword: Pennsylvania
+      Place_Keyword: Rhode Island
+      Place_Keyword: South Carolina
+      Place_Keyword: South Dakota
+      Place_Keyword: Tennessee
+      Place_Keyword: Texas
+      Place_Keyword: Utah
+      Place_Keyword: Vermont
+      Place_Keyword: Virginia
+      Place_Keyword: Washington
+      Place_Keyword: West Virginia
+      Place_Keyword: Wisconsin
+      Place_Keyword: Wyoming
+  Access_Constraints: None.
+  Use_Constraints:
+    None.  Acknowledgement of the PRISM model, the Spatial Climate Analysis
+    Service at Oregon State University, the Natural Resources Conservation 
+    Service (NRCS) Water and Climate Center, the NRCS National Cartography 
+    and Geospatial Center (NCGC), and (or) the National Atlas of the United 
+    States would be appreciated in products derived from these data.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Spatial Climate Analysis Service
+      Contact_Address:
+        Address_Type: Mailing and physical address
+        Address: 316 Strand Agricultural Hall, Oregon State University
+        City: Corvallis
+        State_or_Province: OR
+        Postal_Code: 97331-2202
+      Contact_Voice_Telephone: 541-737-5705
+      Contact_Facsimile_Telephone: 541-737-5710
+      Contact_Electronic_Mail_Address: oregon@coas.oregonstate.edu
+  Native_Data_Set_Environment: 
+    Windows NT Version 4.0 (Build 1381) Service Pack 4; ESRI Arc/INFO 8.0.345
+
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report:
+      Point estimates of precipitation from the U.S. National 1961-1990 Climate
+      Normals were subjected to manual quality control checks by the National 
+      Climatic Data Center (NCDC).  PRISM precipitation estimates were reviewed 
+      by the PRISM Evaluation Group, a panel of climatologists, meteorologists, 
+      and hydrologists.  The task of this group was to assess the assumptions 
+      made by the model and compare model output with the best available 
+      precipitation maps from several western States.  The group found that the 
+      PRISM maps equaled or exceeded the accuracy of the best maps available.
+  Logical_Consistency_Report:
+    Precipitation data were derived from two main sources, NCDC Climate Normals 
+    and NRCS Cooperative Snow Survey Data (SNOTEL).  In general, NCDC stations 
+    are located at low elevations and in valley bottoms, and encompass the 
+    entire United States.  SNOTEL stations are located primarily at high
+    elevations in the western United States.
+
+    Polygon and chain-node topology are present.  Checks were made to ensure
+    that no two adjacent polygons are labeled with the same precipitation 
+    value.  A manual spot check was made of peaks, depressions, and islands.
+  Completeness_Report:
+    This data set includes observations and interpolated values for the 48 
+    contiguous United States and the District of Columbia, for the
+    climatological period 1961-1990.  This data set is a compilation of the 
+    best available data from the various data sources.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Spatial Climate Analysis Service, Oregon State University
+          Publication_Date: 1998
+          Title: 
+            Parameter-elevation Regressions on Independent Slopes Model (PRISM)
+          Publication_Information:
+            Publication_Place: Corvallis, OR, USA
+            Publisher: Spatial Climate Analysis Service
+      Type_of_Source_Media: Proprietary software
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1994
+            Ending_Date: 1998
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: PRISM
+      Source_Contribution: 
+        PRISM was used to create gridded estimates of precipitation from point 
+        observations and digital elevation model data.  For a more detailed
+        description of the PRISM process, see: Daly, C., W.P. Gibson, G.H. Taylor, 
+        G.L. Johnson, P. Pasteris. 2002. A knowledge-based approach to the 
+        statistical mapping of climate. Climate Research, 22: 99-113, 
+        <http://www.ocs.orst.edu/pub/prism/docs/climres02-kb_approach_
+        statistical_mapping-daly.pdf>.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Spatial Climate Analysis Service, Oregon State University
+          Publication_Date: 1998
+          Title: Gaussian Filter
+          Publication_Information:
+            Publication_Place: Corvallis, OR, USA
+            Publisher: Spatial Climate Analysis Service
+      Type_of_Source_Media: Proprietary software
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1994
+            Ending_Date: 1998
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: FILTER
+      Source_Contribution: 
+        The Gaussian filter was used to change the resolution of raster data 
+        from 4 km to 2 km.  The Gaussian filter was implemented as custom 
+        software written in FORTRAN.  For information about Gaussian filters
+        see:  Barnes, Stanley L., 1964; A Technique for Maximizing Details in 
+        Numerical Weather Map Analysis.  Journal of Applied Meteorology, 3, 396-
+        409.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Climatic Data Center (NCDC)
+          Publication_Date: 1991
+          Title: 
+            U.S. National 1961-1990 Climate Normals, Climatography of the 
+            United States No. 81 - Monthly Normals
+          Publication_Information:
+            Publication_Place: Asheville, NC, USA
+            Publisher: National Climatic Data Center
+          Other_Citation_Details: 
+            For more information on this source, please see 
+            <http://www.ncdc.noaa.gov/oa/climate/normals/usnormalshist.html#clim81>.
+      Type_of_Source_Media: Online database
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 19610101
+            Ending_Date: 19901231
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: CLIM81
+      Source_Contribution: 
+        Location and values of known average annual precipitation.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Natural Resources Conservation Service (NRCS)
+          Publication_Date: 1991
+          Title: 
+            Cooperative Snow Survey Data of Federal-State-Private Cooperative 
+            Snow Surveys (SNOTEL)
+          Series_Information:
+            Series_Name: 
+              Cooperative Snow Survey Data of Federal-State-Private 
+              Cooperative Snow Surveys
+            Issue_Identification: Annual issue for Western US states
+          Publication_Information:
+            Publication_Place: Portland, OR, USA
+            Publisher: Natural Resources Conservation Service
+          Other_Citation_Details:
+            For more information on this source, please see
+            <http://www.wcc.nrcs.usda.gov/snow/>.
+      Type_of_Source_Media: Database, paper, and online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 19610101
+            Ending_Date: 19901231
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: SNOTEL
+      Source_Contribution: 
+        Location and values of known average monthly and annual precipitation.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: 
+            Natural Resources Conservation Service, National Water and Climate 
+            Center
+          Publication_Date: Unpublished material
+          Title: Local precipitation monitoring networks
+      Type_of_Source_Media: Digital files
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 19610101
+            Ending_Date: 19901231
+        Source_Currentness_Reference: Ground condition
+      Source_Citation_Abbreviation: LOCAL
+      Source_Contribution: 
+        Location and values of known average annual precipitation.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Defense Mapping Agency
+          Publication_Date: 1985
+          Title: 
+            1:250,000-scale Digital Elevation Models (DEM)
+          Publication_Information:
+            Publication_Place: Washington, DC
+            Publisher: U.S. Geological Survey
+          Online_Linkage: 
+            <http://edcwww.cr.usgs.gov/doc/edchome/ndcdb/ndcdb.html>
+      Type_of_Source_Media: Digital files
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1985
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: DEM
+      Source_Contribution: 
+        Terrain surface input to the PRISM model for estimation of 
+        precipitation between known points.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 1999
+          Title: State Boundaries of the United States
+          Publication_Information:
+            Publication_Place: Reston, VA
+            Publisher: U.S. Geological Survey
+          Online_Linkage: <http://nationalatlas.gov/atlasftp.html>
+      Type_of_Source_Media: Online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1999
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: Atlas-ST
+      Source_Contribution: 
+        This file was used to determine the boundary of the data included.
+
+    Process_Step:
+      Process_Description:
+        The DEM resolution was changed to 4 km using the Gaussian filter.
+      Source_Used_Citation_Abbreviation: DEM
+      Source_Used_Citation_Abbreviation: FILTER
+      Process_Date: 199804
+    Process_Step:
+      Process_Description:
+        All the station data was combined into one master data set.
+      Source_Used_Citation_Abbreviation: CLIM81
+      Source_Used_Citation_Abbreviation: SNOTEL
+      Source_Used_Citation_Abbreviation: LOCAL
+      Process_Date: 199804
+    Process_Step:
+      Process_Description:
+        Data from CLIM81, SNOTEL, and LOCAL were incorporated into the PRISM
+        model and combined with the DEM to produce the initial 4 km-resolution
+        PRISM model output.
+      Source_Used_Citation_Abbreviation: PRISM
+      Source_Used_Citation_Abbreviation: DEM
+      Source_Used_Citation_Abbreviation: CLIM81
+      Source_Used_Citation_Abbreviation: SNOTEL
+      Source_Used_Citation_Abbreviation: LOCAL
+      Process_Date: 199804
+    Process_Step:
+      Process_Description:
+        The PRISM model output was converted from 4 km to 2 km using a
+        Gaussian filter.
+      Source_Used_Citation_Abbreviation: FILTER
+      Process_Date: 199804
+    Process_Step:
+      Process_Description: 
+        The 2 km raster data was contoured using Arc/INFO. 
+      Process_Date: 199804
+    Process_Step:
+      Process_Description:
+        Adjacent isohyets were converted to areas or polygons using a custom-
+        designed macro (AML) in Arc/INFO.
+      Process_Date: 199804
+    Process_Step:
+      Process_Description: 
+        The coverage was created by the Spatial Climate Analysis Service using 
+        custom software.  The Natural Resources Conservation Service, National 
+        Cartography and Geospatial Center edited the file in Arc/INFO to match 
+        the coastlines and boundaries (Atlas-ST) from the National Atlas of the 
+        United States.  The data were converted to shapefile format for 
+        inclusion in the National Atlas of the United States.
+      Source_Used_Citation_Abbreviation: Atlas-ST
+      Process_Date: 200002
+
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: GT-polygon composed of chains
+      Point_and_Vector_Object_Count: 6243
+
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.02083333
+      Longitude_Resolution: 0.02083333
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: GRS1980
+      Semi-major_Axis: 6378137.0
+      Denominator_of_Flattening_Ratio: 298.257222
+
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: 
+        Area of equal average annual precipitation (described by
+        prismp020.dbf)
+      Entity_Type_Definition:
+        Each polygon represents an area with a constant value for the average 
+        annual precipitation, as determined by the PRISM model.  
+      Entity_Type_Definition_Source: 
+        Spatial Climate Analysis Service PRISM Project
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: The representation of the entity in the data.
+      Attribute_Definition_Source: U.S. Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Polygon
+          Enumerated_Domain_Value_Definition:
+            A 2-dimensional element.
+          Enumerated_Domain_Value_Definition_Source: ESRI GIS software
+    Attribute:
+      Attribute_Label: Area
+      Attribute_Definition: 
+        The size of the shape in square coverage units.  In the distributed 
+        file, coverage units represent square decimal degrees.
+      Attribute_Definition_Source: Natural Resources Conservation Service
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.00000
+          Range_Domain_Maximum: 115.09402
+    Attribute:
+      Attribute_Label: Perimeter
+      Attribute_Definition: 
+        The perimeter of the shape in coverage units.  In the distributed file, 
+        coverage units represent decimal degrees.
+      Attribute_Definition_Source: Natural Resources Conservation Service
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.00647
+          Range_Domain_Maximum: 874.33448
+    Attribute:
+      Attribute_Label: Prism0p020
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: Natural Resources Conservation Service
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 2
+          Range_Domain_Maximum: 6244
+    Attribute:
+      Attribute_Label: Range
+      Attribute_Definition: The average annual precipitation.
+      Attribute_Definition_Source: Spatial Climate Analysis Service
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 200.000
+          Attribute_Units_of_Measure: Inches
+          Attribute_Measurement_Resolution: 2.5
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: 
+          USDA - NRCS National Cartography and Geospatial Center
+      Contact_Address:
+        Address_Type: Mailing and physical address
+        Address: 501 W Felix, PO Box 6567
+        City: Ft. Worth
+        State_or_Province: TX
+        Postal_Code: 76115
+        Country: USA
+      Contact_Voice_Telephone: 817-509-3366
+      Contact_Electronic_Mail_Address: snechero@ftw.nrcs.usda.gov
+  Distribution_Liability: 
+    These spatial datasets, associated metadata and documentation are provided 
+    at media cost, without restriction or restraint of use, from the USDA-
+    Natural Resources Conservation Service and the Spatial Climate Analysis 
+    Service.  The project was directed and sponsored by the NRCS National 
+    Water and Climate Center in Portland, Oregon.  None of the agencies 
+    involved, nor any of their employees, make any warranty, expressed or 
+    implied, or assume any legal liability or responsibility for the accuracy, 
+    completeness, or misuse of the data, nor represent that its use would not 
+    infringe privately owned rights.  The agencies involved are not 
+    responsible for damage, transmission of viruses, or computer contamination 
+    through the distribution of this data set.  Neither do they assume any 
+    responsibility for the usefulness of any information, apparatus, product, 
+    or process disclosed in this metadata.  Reference in this metadata to any 
+    specific commercial product, process, or service by trade name, trademark, 
+    manufacturer, or otherwise does not necessarily constitute or imply its 
+    endorsement, recommendation, or favoring by the United States Government, 
+    the State of Oregon, or any agency thereof.  Any views and opinions of 
+    authors expressed in this metadata do not necessarily state or reflect 
+    those of the United States Government, the State of Oregon, or any agency 
+    thereof.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI Shapefile
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name:
+                <http://www.ncgc.nrcs.usda.gov/branch/gdb/products/climate/
+                data/precipitation-us.html>
+    Fees: None
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization:
+          Earth Science Information Center, U.S. Geological Survey
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 507 National Center
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+      Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+      Contact_Voice_Telephone: 703-648-5920
+      Contact_Instructions:
+        In addition to the address above there are other ESIC offices 
+        throughout the country.  A full list of these offices is at
+        <http://geography.usgs.gov/esic/esic_index.html>.
+  Distribution_Liability:
+    Although these data have been processed successfully on a computer system 
+    at the U.S. Geological Survey, no warranty expressed or implied is made by 
+    the U.S. Geological Survey regarding the utility of the data on any other  
+    system, nor shall the act of distribution constitute any such warranty.  
+    No responsibility is assumed by the U.S. Geological Survey in the use of
+    these data.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI Shapefile 
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name:
+                <http://nationalatlas.gov/atlasftp.html>
+        Offline_Option:
+          Offline_Media: CD-ROM
+          Recording_Format: tar
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: SDTS 
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name:
+                <http://nationalatlas.gov/atlasftp.html>
+        Offline_Option:
+          Offline_Media: CD-ROM
+          Recording_Format: tar
+    Fees:
+      There is no charge for the online option.  For National Atlas files 
+      ordered on CD-ROM there is a base price of $45.00 per disc, a handling 
+      fee of $5.00, and a per-file charge based on file size.  The charge for 
+      files less than 10 megabytes in size is $1.00.  The charge for files 
+      that range in size from 10 to 150 megabytes is $7.50.  The charge for 
+      files of 150 megabytes or larger is $15.00.  The charge is $7.50 for the
+      United States Average Annual Precipitation, 1961-1990 data set in shapefile 
+      format, and $1.00 for the data set in SDTS format.
+    Ordering_Instructions:
+      To order files on CD-ROM, please see
+      <http://nationalatlas.gov/atlasftp.html#q12>.
+
+Metadata_Reference_Information:
+  Metadata_Date: 20041019
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Peg Rawson
+        Contact_Organization: U.S. Geological Survey
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: 561 National Center
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+        Country: USA
+      Contact_Voice_Telephone: 703-648-4183
+      Contact_Electronic_Mail_Address: atlasmail@usgs.gov
+  Metadata_Standard_Name: 
+    FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Security_Information:
+    Metadata_Security_Classification_System: None
+    Metadata_Security_Classification: Unclassified
+    Metadata_Security_Handling_Description: None

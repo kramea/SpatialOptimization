@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+&lt;html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40"&gt;
+
+&lt;head&gt;
+&lt;meta http-equiv=Content-Type content="text/html; charset=iso-8859-1"&gt;
+&lt;meta name=ProgId content=Word.Document&gt;
+&lt;meta name=Generator content="Microsoft Word 9"&gt;
+&lt;meta name=Originator content="Microsoft Word 9"&gt;
+&lt;link rel=File-List href="./aktilt_files/filelist.xml"&gt;
+&lt;link rel=Edit-Time-Data href="./aktilt_files/editdata.mso"&gt;
+&lt;!--[if !mso]&gt;
+&lt;style&gt;
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+&lt;/style&gt;
+&lt;![endif]--&gt;
+&lt;title&gt;Alaska Solar Resource Tilt&lt;/title&gt;
+&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+&lt;o:DocumentProperties&gt;
+&lt;o:Author&gt;rgeorge&lt;/o:Author&gt;
+&lt;o:LastAuthor&gt;rgeorge&lt;/o:LastAuthor&gt;
+&lt;o:Revision&gt;3&lt;/o:Revision&gt;
+&lt;o:TotalTime&gt;2&lt;/o:TotalTime&gt;
+&lt;o:Created&gt;2004-02-04T23:37:00Z&lt;/o:Created&gt;
+&lt;o:LastSaved&gt;2004-02-04T23:40:00Z&lt;/o:LastSaved&gt;
+&lt;o:Pages&gt;4&lt;/o:Pages&gt;
+&lt;o:Words&gt;1429&lt;/o:Words&gt;
+&lt;o:Characters&gt;8150&lt;/o:Characters&gt;
+&lt;o:Company&gt;NREL&lt;/o:Company&gt;
+&lt;o:Lines&gt;67&lt;/o:Lines&gt;
+&lt;o:Paragraphs&gt;16&lt;/o:Paragraphs&gt;
+&lt;o:CharactersWithSpaces&gt;10008&lt;/o:CharactersWithSpaces&gt;
+&lt;o:Version&gt;9.3821&lt;/o:Version&gt;
+&lt;/o:DocumentProperties&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;
+&lt;style&gt;
+&lt;!--
+/* Font Definitions */
+@font-face
+{font-family:Wingdings;
+panose-1:5 0 0 0 0 0 0 0 0 0;
+mso-font-charset:2;
+mso-generic-font-family:auto;
+mso-font-pitch:variable;
+mso-font-signature:0 268435456 0 0 -2147483648 0;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+{mso-style-parent:"";
+margin:0in;
+margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:12.0pt;
+font-family:"Times New Roman";
+mso-fareast-font-family:"Times New Roman";}
+p
+{font-size:12.0pt;
+font-family:"Times New Roman";
+mso-fareast-font-family:"Times New Roman";}
+tt
+{mso-ascii-font-family:"Courier New";
+mso-fareast-font-family:"Courier New";
+mso-hansi-font-family:"Courier New";
+mso-bidi-font-family:"Courier New";}
+@page Section1
+{size:8.5in 11.0in;
+margin:1.0in 1.25in 1.0in 1.25in;
+mso-header-margin:.5in;
+mso-footer-margin:.5in;
+mso-paper-source:0;}
+div.Section1
+{page:Section1;}
+/* List Definitions */
+@list l0
+{mso-list-id:709839121;
+mso-list-type:hybrid;
+mso-list-template-ids:-1213405204 -841604950 1749463964 -50840838 147255688 -1249329270 -1305301680 1629760276 197142374 -919020558;}
+@list l0:level1
+{mso-level-number-format:bullet;
+mso-level-text:\F0B7;
+mso-level-tab-stop:.5in;
+mso-level-number-position:left;
+text-indent:-.25in;
+mso-ansi-font-size:10.0pt;
+font-family:Symbol;}
+ol
+{margin-bottom:0in;}
+ul
+{margin-bottom:0in;}
+--&gt;
+&lt;/style&gt;
+&lt;link rel=schema.dc href="http://purl.org/metadata/dublin_core"&gt;
+&lt;meta name=dc.title content="Alaska Solar Resource Tilt "&gt;
+&lt;meta name=dc.creator content="Ray George "&gt;
+&lt;meta name=dc.subject content="solar resource solar potential global "&gt;
+&lt;meta name=dc.description
+content="Monthly and annual average solar resource potential for Alaska. "&gt;
+&lt;meta name=dc.publisher content="National Renewable Energy Labratory"&gt;
+&lt;meta name=dc.date content=2040115&gt;
+&lt;meta name=dc.type content=data.model&gt;
+&lt;meta name=dc.source content="Downloadable Data"&gt;
+&lt;meta name=dc.lang content=en&gt;
+&lt;meta name=dc.coverage.x.min scheme="DD" content=-179.141998&gt;
+&lt;meta name=dc.coverage.x.max scheme="DD" content=-129.99054&gt;
+&lt;meta name=dc.coverage.y.min scheme="DD" content=51.210815&gt;
+&lt;meta name=dc.coverage.y.max scheme="DD" content=71.407761&gt;
+&lt;meta name=dc.coverage.placeName content=Alaska&gt;
+&lt;meta name=dc.coverage.t.min content=19850101&gt;
+&lt;meta name=dc.coverage.t.max content=19911231&gt;
+&lt;meta name=dc.coverage.periodName content=monthly&gt;
+&lt;meta name=dc.rights
+content="Access constraints: None.; Use constraints: This GIS data was developed by the National Renewable Energy Laboratory (&amp;quot;NREL&amp;quot;), which is operated by the Midwest Research Institute for the U.S. Department of Energy (&amp;quot;DOE&amp;quot;). The user is granted the right, without any fee or cost, to use, copy, modify, alter, enhance and distribute this data for any purpose whatsoever, provided that this entire notice appears in all copies of the data. Further, the user of this data agrees to credit NREL in any publications or software that incorporate or use the data."&gt;
+&lt;/head&gt;
+
+&lt;body lang=EN-US link=blue vlink=blue style='tab-interval:.5in'&gt;
+
+&lt;div class=Section1&gt;
+
+&lt;h1&gt;Alaska Solar Resource Tilt&lt;/h1&gt;
+
+&lt;h2&gt;Metadata:&lt;/h2&gt;
+
+&lt;ul type=disc&gt;
+&lt;li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-list:l0 level1 lfo1;tab-stops:list .5in'&gt;&lt;a
+href="#Identification_Information"&gt;Identification_Information&lt;/a&gt;&lt;/li&gt;
+&lt;li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-list:l0 level1 lfo1;tab-stops:list .5in'&gt;&lt;a
+href="#Spatial_Data_Organization_Information"&gt;Spatial_Data_Organization_Information&lt;/a&gt;&lt;/li&gt;
+&lt;li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-list:l0 level1 lfo1;tab-stops:list .5in'&gt;&lt;a
+href="#Distribution_Information"&gt;Distribution_Information&lt;/a&gt;&lt;/li&gt;
+&lt;li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-list:l0 level1 lfo1;tab-stops:list .5in'&gt;&lt;a
+href="#Metadata_Reference_Information"&gt;Metadata_Reference_Information&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=MsoNormal align=center style='text-align:center'&gt;&lt;a
+name="Identification_Information"&gt;
+
+&lt;hr size=2 width="100%" align=center&gt;
+
+&lt;/a&gt;&lt;/div&gt;
+
+&lt;span style='font-size:12.0pt;font-family:"Times New Roman";mso-fareast-font-family:
+"Times New Roman";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA'&gt;&lt;span style='mso-bookmark:Identification_Information'&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;p class=MsoNormal&gt;&lt;em&gt;Identification_Information:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Citation:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Citation_Information:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Originator:&lt;/em&gt; National
+Renewable Energy Laboratory (NREL)&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Publication_Date:&lt;/em&gt; 19990930&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Title:&lt;/em&gt; Alaska Solar
+Resource Tilt&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Geospatial_Data_Presentation_Form:&lt;/em&gt;
+model&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Publication_Information:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Publication_Place:&lt;/em&gt; Golden,
+Colorado USA&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Publisher:&lt;/em&gt; National
+Renewable Energy Lab&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Description:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Abstract:&lt;/em&gt; Monthly and
+annual average solar resource potential for Alaska.&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Purpose:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;Provide information on the solar
+resource potential for the state of Alaska. The insolation values represent the
+average solar energy available to a flat plate collector, such as a
+photovoltaic panel, oriented due south at an angle from horizontal equal to the
+latitude of the collector location. &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Supplemental_Information:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;This data provides monthly average
+and annual average daily total solar resource averaged over surface cells of
+approximatley 40 km by 40 km in size. This data was developed from the
+Climatological Solar Radiation (CSR) Model. The CSR model was developed by the
+National Renewable Energy Laboratory for the U.S. Department of Energy.
+Specific information about this model can be found in Maxwell, George and
+Wilcox (1998) and George and Maxwell (1999). This model uses information on
+cloud cover, atmostpheric water vapor and trace gases, and the amount of
+aerosols in the atmosphere to calculate the monthly average daily total
+insolation (sun and sky) falling on a horizontal surface. The cloud cover data
+used as input to the CSR model are an 7-year histogram (1985-1991) of monthly
+average cloud fraction provided for grid cells of approximately 40km x 40km in
+size. Thus, the spatial resolution of the CSR model output is defined by this
+database. The data are obtained from the National Climatic Data Center in
+Ashville, North Carolina, and were developed from the U.S. Air Force Real Time
+Nephanalysis (RTNEPH) program. Atmospheric water vapor, trace gases, and
+aerosols are derived from a variety of sources. The procedures for converting
+the collector at latitude tilt are described in Marion and Wilcox (1994). Where
+possible, existing ground measurement stations are used to validate the data.
+Nevertheless, there is uncertainty associated with the meterological input to
+the model, since some of the input parameters are not avalible at a 40km
+resolution. As a result, it is believed that the modeled values are accurate to
+approximately 10% of a true measured value within the grid cell. Due to terrain
+effects and other micoclimate influences, the local cloud cover can vary
+significantly even within a single grid cell. Furthermore, the uncertainty of
+the modeled estimates increase with distance from reliable measurement sources
+and with the complexity of the terrain. &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;References: George, R, and E.
+Maxwell, 1999: &amp;quot;High-Resolution Maps of Solar Collector Performance Using
+A Climatological Solar Radiation Model&amp;quot;, Proceedings of the 1999 Annual
+Conference, American Solar Energy Society, Portland, ME. Maxwell, E, R. George
+and S. Wilcox, &amp;quot;A Climatological Solar Radiation Model&amp;quot;, Proceedings
+of the 1998 Annual Conference, American Solar Energy Society, Albuquerque NM.
+Marion, William and Stephen Wilcox, 1994: &amp;quot;Solar Radiation Data Manual for
+Flat-plate and Concentrating Collectors&amp;quot;. NREL/TP-463-5607, National
+Renewable Energy Laboratory, 1617 Cole Boulevard, Golden, CO 80401. &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Time_Period_of_Content:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Time_Period_Information:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Range_of_Dates/Times:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Beginning_Date:&lt;/em&gt; 19850101&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Ending_Date:&lt;/em&gt; 19911231&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Currentness_Reference:&lt;/em&gt; Climatological
+information - use to predict future radiation&lt;em&gt; &lt;o:p&gt;&lt;/o:p&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Status:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Progress:&lt;/em&gt; Complete&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Maintenance_and_Update_Frequency:&lt;/em&gt;
+As needed&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Spatial_Domain:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Bounding_Coordinates:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;West_Bounding_Coordinate:&lt;/em&gt;
+-179.141998&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;East_Bounding_Coordinate:&lt;/em&gt;
+-129.99054&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;North_Bounding_Coordinate:&lt;/em&gt;
+71.407761&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;South_Bounding_Coordinate:&lt;/em&gt;
+51.210815&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Keywords:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Theme:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Theme_Keyword_Thesaurus:&lt;/em&gt;
+none&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Theme_Keyword:&lt;/em&gt; solar
+resource&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Theme_Keyword:&lt;/em&gt; solar
+potential&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Theme_Keyword:&lt;/em&gt; global&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Place:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Place_Keyword_Thesaurus:&lt;/em&gt;
+none&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Place_Keyword:&lt;/em&gt; Alaska&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Temporal:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Temporal_Keyword_Thesaurus:&lt;/em&gt;
+none&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Temporal_Keyword:&lt;/em&gt; monthly&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Access_Constraints:&lt;/em&gt; None.&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Use_Constraints:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;This GIS data was developed by the
+National Renewable Energy Laboratory (&amp;quot;NREL&amp;quot;), which is operated by
+the Midwest Research Institute for the U.S. Department of Energy
+(&amp;quot;DOE&amp;quot;). The user is granted the right, without any fee or cost, to
+use, copy, modify, alter, enhance and distribute this data for any purpose
+whatsoever, provided that this entire notice appears in all copies of the data.
+Further, the user of this data agrees to credit NREL in any publications or
+software that incorporate or use the data. &lt;/p&gt;
+
+&lt;p style='margin-left:.5in'&gt;Access to and use of the GIS data shall further
+impose the following obligations on the User. The names DOE/NREL may not be
+used in any advertising or publicity to endorse or promote any product or
+commercial entity using or incorporating the GIS data unless specific written
+authorization is obtained from DOE/NREL. The User also understands that
+DOE/NREL shall not be obligated to provide updates, support, consulting,
+training or assistance of any kind whatsoever with regard to the use of the GIS
+data. &lt;/p&gt;
+
+&lt;p style='margin-left:.5in'&gt;THE GIS DATA IS PROVIDED &amp;quot;AS IS&amp;quot; AND ANY
+EXPRESS OR IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL DOE/NREL BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL
+DAMAGES OR ANY DAMAGES WHATSOEVER, INCLUDING BUT NOT LIMITED TO CLAIMS
+ASSOCIATED WITH THE LOSS OF DATA OR PROFITS, WHICH MAY RESULT FROM AN ACTION IN
+CONTRACT, NEGLIGENCE OR OTHER TORTIOUS CLAIM THAT ARISES OUT OF OR IN
+CONNECTION WITH THE ACCESS OR USE OF THE GIS DATA. &lt;/p&gt;
+
+&lt;p style='margin-left:.5in'&gt;The User acknowledges that access to the GIS data
+is subject to U.S. Export laws and regulations and any use or transfer of the
+GIS data must be authorized under those regulations. The User shall not use,
+distribute, transfer, or transmit GIS data or any products incorporating the
+GIS data except in compliance with U.S. export regulations. If requested by
+DOE/NREL, the User agrees to sign written assurances and other export-related
+documentation as may be required to comply with U.S. export regulations. &lt;/p&gt;
+
+&lt;div class=MsoNormal align=center style='text-align:center'&gt;&lt;a
+name="Spatial_Data_Organization_Information"&gt;
+
+&lt;hr size=2 width="100%" align=center&gt;
+
+&lt;/a&gt;&lt;/div&gt;
+
+&lt;span style='font-size:12.0pt;font-family:"Times New Roman";mso-fareast-font-family:
+"Times New Roman";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA'&gt;&lt;span style='mso-bookmark:Spatial_Data_Organization_Information'&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;p class=MsoNormal&gt;&lt;em&gt;Spatial_Data_Organization_Information:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Direct_Spatial_Reference_Method:&lt;/em&gt;
+Vector&lt;/p&gt;
+
+&lt;div class=MsoNormal align=center style='text-align:center'&gt;&lt;a
+name="Distribution_Information"&gt;
+
+&lt;hr size=2 width="100%" align=center&gt;
+
+&lt;/a&gt;&lt;/div&gt;
+
+&lt;span style='font-size:12.0pt;font-family:"Times New Roman";mso-fareast-font-family:
+"Times New Roman";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA'&gt;&lt;span style='mso-bookmark:Distribution_Information'&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;p class=MsoNormal&gt;&lt;em&gt;Distribution_Information:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Distributor:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Contact_Information:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Contact_Person_Primary:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Contact_Person:&lt;/em&gt; Ray George&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Contact_Organization:&lt;/em&gt; National
+Renewable Energy Labratory&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Contact_Address:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Address_Type:&lt;/em&gt; Mailing and
+Physical Address&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Address:&lt;/em&gt; 1617 Cole Blvd&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;City:&lt;/em&gt; Golden&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;State_or_Province:&lt;/em&gt; CO&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Postal_Code:&lt;/em&gt; 80401&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Country:&lt;/em&gt; USA&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Contact_Voice_Telephone:&lt;/em&gt;
+303-275-4669.&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Contact_Facsimile_Telephone:&lt;/em&gt;
+303-275-4675&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Contact_Electronic_Mail_Address:&lt;/em&gt;
+ray_george@nrel.gov&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Resource_Description:&lt;/em&gt;
+Downloadable Data&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Distribution_Liability:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;This GIS data was developed by the
+National Renewable Energy Laboratory (&amp;quot;NREL&amp;quot;), which is operated by
+the Midwest Research Institute for the U.S. Department of Energy
+(&amp;quot;DOE&amp;quot;). The user is granted the right, without any fee or cost, to
+use, copy, modify, alter, enhance and distribute this data for any purpose
+whatsoever, provided that this entire notice appears in all copies of the data.
+Further, the user of this data agrees to credit NREL in any publications or
+software that incorporate or use the data. &lt;/p&gt;
+
+&lt;p style='margin-left:.5in'&gt;Access to and use of the GIS data shall further
+impose the following obligations on the User. The names DOE/NREL may not be used
+in any advertising or publicity to endorse or promote any product or commercial
+entity using or incorporating the GIS data unless specific written
+authorization is obtained from DOE/NREL. The User also understands that
+DOE/NREL shall not be obligated to provide updates, support, consulting,
+training or assistance of any kind whatsoever with regard to the use of the GIS
+data. &lt;/p&gt;
+
+&lt;p style='margin-left:.5in'&gt;THE GIS DATA IS PROVIDED &amp;quot;AS IS&amp;quot; AND ANY
+EXPRESS OR IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL DOE/NREL BE LIABLE FOR ANY SPECIAL, INDIRECT OR
+CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER, INCLUDING BUT NOT LIMITED TO
+CLAIMS ASSOCIATED WITH THE LOSS OF DATA OR PROFITS, WHICH MAY RESULT FROM AN
+ACTION IN CONTRACT, NEGLIGENCE OR OTHER TORTIOUS CLAIM THAT ARISES OUT OF OR IN
+CONNECTION WITH THE ACCESS OR USE OF THE GIS DATA. &lt;/p&gt;
+
+&lt;p style='margin-left:.5in'&gt;The User acknowledges that access to the GIS data
+is subject to U.S. Export laws and regulations and any use or transfer of the
+GIS data must be authorized under those regulations. The User shall not use,
+distribute, transfer, or transmit GIS data or any products incorporating the
+GIS data except in compliance with U.S. export regulations. If requested by
+DOE/NREL, the User agrees to sign written assurances and other export-related
+documentation as may be required to comply with U.S. export regulations. &lt;/p&gt;
+
+&lt;div class=MsoNormal align=center style='text-align:center'&gt;&lt;a
+name="Metadata_Reference_Information"&gt;
+
+&lt;hr size=2 width="100%" align=center&gt;
+
+&lt;/a&gt;&lt;/div&gt;
+
+&lt;span style='font-size:12.0pt;font-family:"Times New Roman";mso-fareast-font-family:
+"Times New Roman";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA'&gt;&lt;span style='mso-bookmark:Metadata_Reference_Information'&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;p class=MsoNormal&gt;&lt;em&gt;Metadata_Reference_Information:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Metadata_Date:&lt;/em&gt; 20040115&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Metadata_Contact:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Contact_Information:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Contact_Person_Primary:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Contact_Person:&lt;/em&gt; Michael
+Menand&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Contact_Organization:&lt;/em&gt;
+National Renewable Energy Labratory&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Contact_Address:&lt;/em&gt; &lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Address_Type:&lt;/em&gt; Mailing and
+Physical Address&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Address:&lt;/em&gt; 1617 Cole Blvd.&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;City:&lt;/em&gt; Golden&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;State_or_Province:&lt;/em&gt;
+Colorado&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Postal_Code:&lt;/em&gt; 80401&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Country:&lt;/em&gt; USA&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Contact_Voice_Telephone:&lt;/em&gt;
+303-275-4623&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Metadata_Standard_Name:&lt;/em&gt;
+FGDC Content Standards for Digital Geospatial Metadata&lt;/p&gt;
+
+&lt;p class=MsoNormal style='margin-left:.5in'&gt;&lt;em&gt;Metadata_Standard_Version:&lt;/em&gt;
+FGDC-STD-001-1998&lt;/p&gt;
+
+&lt;div class=MsoNormal align=center style='text-align:center'&gt;
+
+&lt;hr size=2 width="100%" align=center&gt;
+
+&lt;/div&gt;
+
+&lt;p class=MsoNormal&gt;Generated by &lt;a
+href="http://geology.usgs.gov/tools/metadata/tools/doc/mp.html"&gt;&lt;tt&gt;&lt;span
+style='font-size:10.0pt;font-family:"Courier New"'&gt;mp&lt;/span&gt;&lt;/tt&gt;&lt;/a&gt; version
+2.6.0 on Mon Jan 19 09:43:54 2004&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+<Esri><CreaDate>20090217</CreaDate><CreaTime>09034400</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20120318</SyncDate><SyncTime>14302900</SyncTime><ModDate>20120318</ModDate><ModTime>14302900</ModTime><MetaID>{601EEF31-4187-47EC-B07A-A3967701251C}</MetaID><DataProperties><itemProps><itemName Sync="TRUE">biosorted</itemName><imsContentType Sync="TRUE">002</imsContentType><itemSize Sync="TRUE">0.000</itemSize><itemLocation><linkage Sync="TRUE">file://\\RAVI-HP\C$\gisproj\Power Plant Locator\Dataset\temp\biosorted.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation></itemProps><coordRef><type Sync="TRUE">Geographic</type><geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn><peXml Sync="TRUE">&lt;GeographicCoordinateSystem xsi:type='typens:GeographicCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.0'&gt;&lt;WKT&gt;GEOGCS[&amp;quot;GCS_WGS_1984&amp;quot;,DATUM[&amp;quot;D_WGS_1984&amp;quot;,SPHEROID[&amp;quot;WGS_1984&amp;quot;,6378137.0,298.257223563]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433],AUTHORITY[&amp;quot;EPSG&amp;quot;,4326]]&lt;/WKT&gt;&lt;XOrigin&gt;-399.99999999999989&lt;/XOrigin&gt;&lt;YOrigin&gt;-399.99999999999989&lt;/YOrigin&gt;&lt;XYScale&gt;11258999068426.24&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;8.9831528411952133e-009&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;LeftLongitude&gt;-180&lt;/LeftLongitude&gt;&lt;WKID&gt;4326&lt;/WKID&gt;&lt;/GeographicCoordinateSystem&gt;</peXml></coordRef><lineage><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CopyFeatures" Date="20120302" Time="163841">CopyFeatures Biomass C:\gisproj\Data\CAbiomass.shp # 0 0 0</Process><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Analysis Tools.tbx\Clip" Date="20120318" Time="143027">Clip "C:\gisproj\Power Plant Locator\Dataset\CABiomass.shp" "C:\gisproj\Power Plant Locator\Dataset\temp\transbuf2.shp" "C:\gisproj\Power Plant Locator\Dataset\temp\bioclipped.shp" #</Process><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteFeatures" Date="20120318" Time="143029">DeleteFeatures "C:\gisproj\Power Plant Locator\Dataset\temp\bio_lyr"</Process><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\Sort" Date="20120318" Time="143029">Sort "C:\gisproj\Power Plant Locator\Dataset\temp\bio_lyr" "C:\gisproj\Power Plant Locator\Dataset\temp\biosorted.shp" "Total DESCENDING" UR</Process></lineage></DataProperties></Esri><dataqual><lineage><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\DOCUME~1\mmenand\LOCALS~1\Temp\xmlD77.tmp</srcused><date Sync="TRUE">20040325</date><time Sync="TRUE">11381100</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">C:\MetaData\Data_for_ FTP\Lower48\Solar\l48pv</srcused><date Sync="TRUE">20040427</date><time Sync="TRUE">16563300</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">C:\GIS_Data_Catalog\NAM\Country\US\e_res\wind\l48pv</srcused><date Sync="TRUE">20040427</date><time Sync="TRUE">16565000</time></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">W:\gis\GIS_Data_Catalog\NAM\Country\US\e_res\solar\l48pv.shp.xml</srcused><procdate Sync="TRUE">20080922</procdate><proctime Sync="TRUE">08283300</proctime></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\Documents and Settings\PGray\Desktop\GISdatazipfiles\solar_data\L48PV\l48pv.shp.xml</srcused><procdate Sync="TRUE">20090217</procdate><proctime Sync="TRUE">08322400</proctime></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\Documents and Settings\PGray\Desktop\GISdatazipfiles\solar_data\l48csp.shp.xml</srcused><procdate Sync="TRUE">20090217</procdate><proctime Sync="TRUE">09034400</proctime></procstep></lineage></dataqual><idinfo><native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.0.1770</native><descript><langdata Sync="TRUE">en</langdata><abstract>Biomass resource potential for the lower 48 states of the United States of America.</abstract><purpose>Provide information on the biomass resource potential for the United States of America lower 48 states.</purpose><supplinf>Estimate technical biomass resources available in the United States by county.  The following feedstock categories are considered for this study: crop residues, methane emissions from manure management, methane emissions from landfills and wastewater treatment facilities, forest residues, primary and secondary mill residues, urban wood waste, and dedicated energy crops.</supplinf></descript><citation><citeinfo><origin>Anelia Milbrandt</origin><pubdate>Unknown</pubdate><title Sync="TRUE">Biomass</title><ftname Sync="TRUE">Biomass</ftname><geoform Sync="TRUE">vector digital data</geoform><onlink>http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Biomass/High_Resolution/Biomass_2005.zip</onlink><othercit>Milbrandt, Anelia, 2005: "A Geographic Perspective on the Current Biomass Resource Availability in the United States", National Renewable Energy Laboratory, Golden, CO. </othercit></citeinfo></citation><timeperd><current>publication date</current><timeinfo><rngdates><begdate>unknown</begdate><enddate>unknown</enddate></rngdates></timeinfo></timeperd><status><progress>Complete</progress><update>None planned</update></status><spdom><bounding><westbc Sync="TRUE">-178.227822</westbc><eastbc Sync="TRUE">-66.949831</eastbc><northbc Sync="TRUE">71.382690</northbc><southbc Sync="TRUE">18.910842</southbc></bounding><lboundng><leftbc Sync="TRUE">-178.227822</leftbc><rightbc Sync="TRUE">-66.949831</rightbc><bottombc Sync="TRUE">18.910842</bottombc><topbc Sync="TRUE">71.382690</topbc></lboundng></spdom><keywords><theme><themekt>none.</themekt><themekey>biomass resouce</themekey></theme><place><placekt>none</placekt><placekey>United States</placekey></place></keywords><accconst>None.</accconst><useconst>This GIS data was developed by the National Renewable Energy Laboratory ("NREL"), which is operated by the Alliance for Sustainable Energy, LLC  for the U.S. Department of Energy ("DOE"). The user is granted the right, without any fee or cost, to use, copy, modify, alter, enhance and distribute this data for any purpose whatsoever, provided that this entire notice appears in all copies of the data. Further, the user of this data agrees to credit NREL in any publications or software that incorporate or use the data. 
+
+Access to and use of the GIS data shall further impose the following obligations on the User. The names DOE/NREL may not be used in any advertising or publicity to endorse or promote any product or commercial entity using or incorporating the GIS data unless specific written authorization is obtained from DOE/NREL. The User also understands that DOE/NREL shall not be obligated to provide updates, support, consulting, training or assistance of any kind whatsoever with regard to the use of the GIS data. 
+
+THE GIS DATA IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL DOE/NREL BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER, INCLUDING BUT NOT LIMITED TO CLAIMS ASSOCIATED WITH THE LOSS OF DATA OR PROFITS, WHICH MAY RESULT FROM AN ACTION IN CONTRACT, NEGLIGENCE OR OTHER TORTIOUS CLAIM THAT ARISES OUT OF OR IN CONNECTION WITH THE ACCESS OR USE OF THE GIS DATA. 
+
+The User acknowledges that access to the GIS data is subject to U.S. Export laws and regulations and any use or transfer of the GIS data must be authorized under those regulations. The User shall not use, distribute, transfer, or transmit GIS data or any products incorporating the GIS data except in compliance with U.S. export regulations. If requested by DOE/NREL, the User agrees to sign written assurances and other export-related documentation as may be required to comply with U.S. export regulations.</useconst><natvform Sync="TRUE">Shapefile</natvform><ptcontac><cntinfo><cntvoice>303-275-4633</cntvoice><cntperp><cntper>Anelia Milbrandt</cntper><cntorg>National Renewable Energy Laboratory</cntorg></cntperp><hours>9 - 5 Monday - Friday</hours></cntinfo></ptcontac></idinfo><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows Server 2008 R2 Version 6.1 (Build 7601) Service Pack 1; ESRI ArcGIS 10.0.0.2414</envirDesc><dataLang><languageCode Sync="TRUE" value="eng" country="USA"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">biosorted</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">-178.227822</westBL><eastBL Sync="TRUE">-66.949831</eastBL><northBL Sync="TRUE">71.38269</northBL><southBL Sync="TRUE">18.910842</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-178.227822</westBL><eastBL Sync="TRUE">-66.949831</eastBL><northBL Sync="TRUE">71.38269</northBL><southBL Sync="TRUE">18.910842</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox><descKeys><thesaName uuidref="723f6998-058e-11dc-8314-0800200c9a66"></thesaName><keyword Sync="TRUE">002</keyword></descKeys></dataIdInfo><metainfo><langmeta Sync="TRUE">en</langmeta><metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn><metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv><mettc Sync="TRUE">local time</mettc><metc><cntinfo><cntaddr><addrtype>mailing and physical address</addrtype><city>Golden</city><state>Colorado</state><postal>80401</postal><address>1617 Cole Blvd.</address><country>USA</country></cntaddr><cntvoice>303-275-4626</cntvoice><cntperp><cntper>Pamela Gray-Hann</cntper><cntorg>National Renewable Energy Laboratory</cntorg></cntperp></cntinfo></metc><metd Sync="TRUE">20111122</metd></metainfo><mdLang><languageCode Sync="TRUE" value="eng"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="006"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distinfo><resdesc Sync="TRUE">Downloadable Data</resdesc><stdorder><digform><digtinfo><transize Sync="TRUE">76.956</transize><dssize Sync="TRUE">76.956</dssize></digtinfo></digform></stdorder><distliab>This GIS data was developed by the National Renewable Energy Laboratory ("NREL"), which is operated by the Alliance for Sustainable Energy, LLC  for the U.S. Department of Energy ("DOE"). The user is granted the right, without any fee or cost, to use, copy, modify, alter, enhance and distribute this data for any purpose whatsoever, provided that this entire notice appears in all copies of the data. Further, the user of this data agrees to credit NREL in any publications or software that incorporate or use the data. 
+
+Access to and use of the GIS data shall further impose the following obligations on the User. The names DOE/NREL may not be used in any advertising or publicity to endorse or promote any product or commercial entity using or incorporating the GIS data unless specific written authorization is obtained from DOE/NREL. The User also understands that DOE/NREL shall not be obligated to provide updates, support, consulting, training or assistance of any kind whatsoever with regard to the use of the GIS data. 
+
+THE GIS DATA IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL DOE/NREL BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER, INCLUDING BUT NOT LIMITED TO CLAIMS ASSOCIATED WITH THE LOSS OF DATA OR PROFITS, WHICH MAY RESULT FROM AN ACTION IN CONTRACT, NEGLIGENCE OR OTHER TORTIOUS CLAIM THAT ARISES OUT OF OR IN CONNECTION WITH THE ACCESS OR USE OF THE GIS DATA. 
+
+The User acknowledges that access to the GIS data is subject to U.S. Export laws and regulations and any use or transfer of the GIS data must be authorized under those regulations. The User shall not use, distribute, transfer, or transmit GIS data or any products incorporating the GIS data except in compliance with U.S. export regulations. If requested by DOE/NREL, the User agrees to sign written assurances and other export-related documentation as may be required to comply with U.S. export regulations.</distliab></distinfo><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\PGRAY-12799S\C\Documents and Settings\PGray\Desktop\GISdatazipfiles\biomass_data\Biomass.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">76.956</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor><distFormat><formatName Sync="TRUE">Shapefile</formatName></distFormat><distTranOps><transSize Sync="TRUE">0.000</transSize></distTranOps></distInfo><spdoinfo><direct Sync="TRUE">Vector</direct><ptvctinf><esriterm Name="biosorted"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">4</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">0</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf></spdoinfo><spref><horizsys><cordsysn><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn></cordsysn><geograph><geogunit Sync="TRUE">Decimal degrees</geogunit><latres Sync="TRUE">0.000000</latres><longres Sync="TRUE">0.000000</longres></geograph><geodetic><horizdn Sync="TRUE">North American Datum of 1983</horizdn><ellips Sync="TRUE">Geodetic Reference System 80</ellips><semiaxis Sync="TRUE">6378137.000000</semiaxis><denflat Sync="TRUE">298.257222</denflat></geodetic></horizsys></spref><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE" code="4326">GCS_North_American_1983</identCode><idCodeSpace Sync="TRUE">EPSG</idCodeSpace><idVersion Sync="TRUE">7.4.1</idVersion></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="Biomass"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="002"></GeoObjTypCd><geoObjCnt Sync="TRUE">0</geoObjCnt></geoObjTyp><geoObjCnt Sync="TRUE">3141</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><eainfo><detailed Name="biosorted"><enttyp><enttypl Sync="TRUE">biosorted</enttypl><enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">0</enttypc></enttyp><attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">Shape</attrlabl><attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Feature geometry.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">NAME</attrlabl><attalias Sync="TRUE">NAME</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">32</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">STATE_NAME</attrlabl><attalias Sync="TRUE">STATE_NAME</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">25</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">STATE_FIPS</attrlabl><attalias Sync="TRUE">STATE_FIPS</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">2</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">CNTY_FIPS</attrlabl><attalias Sync="TRUE">CNTY_FIPS</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">3</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">FIPS</attrlabl><attalias Sync="TRUE">FIPS</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">5</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">POP2000</attrlabl><attalias Sync="TRUE">POP2000</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">18</attwidth><atprecis Sync="TRUE">18</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">SQMI</attrlabl><attalias Sync="TRUE">SQMI</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">18</atprecis><attscale Sync="TRUE">6</attscale></attr><attr><attrlabl Sync="TRUE">forest</attrlabl><attalias Sync="TRUE">Forest</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">9</attwidth><atprecis Sync="TRUE">9</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">primmill</attrlabl><attalias Sync="TRUE">PrimMill</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">9</attwidth><atprecis Sync="TRUE">9</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">CropRes</attrlabl><attalias Sync="TRUE">CropRes</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">9</attwidth><atprecis Sync="TRUE">9</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">Wastewater</attrlabl><attalias Sync="TRUE">Wastewater</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">17</attwidth><atprecis Sync="TRUE">16</atprecis><attscale Sync="TRUE">2</attscale></attr><attr><attrlabl Sync="TRUE">landfill</attrlabl><attalias Sync="TRUE">Landfill</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">17</attwidth><atprecis Sync="TRUE">16</atprecis><attscale Sync="TRUE">2</attscale></attr><attr><attrlabl Sync="TRUE">ManureMgmt</attrlabl><attalias Sync="TRUE">ManureMgmt</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">17</attwidth><atprecis Sync="TRUE">16</atprecis><attscale Sync="TRUE">2</attscale></attr><attr><attrlabl Sync="TRUE">UrbanWood</attrlabl><attalias Sync="TRUE">UrbanWood</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">9</attwidth><atprecis Sync="TRUE">9</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">SecMillRes</attrlabl><attalias Sync="TRUE">SecMillRes</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">9</attwidth><atprecis Sync="TRUE">9</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">Total</attrlabl><attalias Sync="TRUE">Total</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">18</atprecis><attscale Sync="TRUE">2</attscale></attr><attr><attrlabl Sync="TRUE">Total_sqkm</attrlabl><attalias Sync="TRUE">Total_sqkm</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">18</atprecis><attscale Sync="TRUE">2</attscale></attr></detailed></eainfo><mdDateSt Sync="TRUE">20120318</mdDateSt></metadata>

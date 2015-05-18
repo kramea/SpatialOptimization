@@ -1,2 +1,6 @@
 # SpatialOptimization
-Spatial Optimization
+The California TIMES, an energy systems model, projects the energy demands, and the different kinds of renewable energy investments that needs to be made to reach the 80% reduction of 1990 greenhouse gas emissions levels by 2050 (according to Assembly Bill 32). The goal of this exercise is to extend the results from the energy systems model to a spatial dimension. 
+
+This project focuses on the electricity generation sector, it takes the projected data from the model, and spatially optimizes the locations of renewable energy power plants, specifically, (a) Wind power, (b) Solar power, (c) Biomass, and (d) Geothermal. Several geographical factors play into each of the renewable energy power plants. This project finds optimal locations to meet the energy demand considering the respective factors. Finally, once the locations are determined, the investment costs for each energy source is determined. 
+
+ArcGIS package is used for this project with Arcpy module for Python scripting. Numpy package is used for the mathematical calculations in the model. The output is a customized ArcToolBox tool that will take the input file from the model and generate new power plant locations geographically and write the new power plant investment cost output to a text file.
